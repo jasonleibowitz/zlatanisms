@@ -10,4 +10,4 @@ This is a silly basic Ruby program I wrote that displays random Zlatan quotes ar
 
 ####Using
 
-To use this app just run the ```main.rb``` file. 
+To use this app just run the ```main.rb``` file located in the ```lib/``` directory. 
